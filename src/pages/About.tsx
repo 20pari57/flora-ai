@@ -16,7 +16,7 @@ const stats = [
 const team = [
   {
     name: 'Arijita Paria',
-    role: 'UI/UX Designer',
+    role: 'Devloper & AI Engineer',
     bio: 'Believes great design should feel like walking into a garden. Crafts interfaces that make plant care feel effortless and intuitive for every grower.',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&q=80',
     accent: '#34d399',
@@ -27,7 +27,7 @@ const team = [
   },
   {
     name: 'Anubhab Kundu',
-    role: 'AI/ML Engineer',
+    role: 'Data & Reacher',
     bio: 'Trained models on 2M+ plant images. Specialist in computer vision for plant pathology and deploying AI at the edge for real-world gardens.',
     image: 'https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?auto=format&fit=crop&w=600&q=80',
     accent: '#38bdf8',
@@ -38,7 +38,7 @@ const team = [
   },
   {
     name: 'Sumit Pal',
-    role: 'Full Stack Developer',
+    role: 'AI-ML Engineer',
     bio: 'Builds fast, resilient systems from soil sensors to dashboards. Passionate about real-time APIs, clean architecture, and scalable plant data pipelines.',
     image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80',
     accent: '#a3e635',
@@ -49,7 +49,7 @@ const team = [
   },
   {
     name: 'Supriyo Paramanik',
-    role: 'Backend Developer',
+    role: 'ML Engineer',
     bio: 'Architect of FLORE\'s core infrastructure. Turns millions of plant data points into reliable, lightning-fast APIs that power every diagnosis and care alert.',
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80',
     accent: '#c084fc',
@@ -232,7 +232,7 @@ export function About() {
           {/* Sub-row */}
           <div className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
             <p className="hero-sub max-w-md text-base leading-relaxed text-slate-400 md:text-lg">
-              FLORE AI is an AI-powered platform built for India's 300 million plant lovers —
+              FLORA AI is an AI-powered platform built for India's 300 million plant lovers —
               combining computer vision, real-time data, and a passionate community.
             </p>
 
@@ -504,7 +504,7 @@ export function About() {
                 Meet the team
                 <br />
                 <span className="bg-gradient-to-r from-emerald-300 to-lime-200 bg-clip-text text-transparent">
-                  behind FLORE.
+                  behind FLORA.
                 </span>
               </h2>
               <p className="mt-4 max-w-md text-sm leading-relaxed text-slate-500">
