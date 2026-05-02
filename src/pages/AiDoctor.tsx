@@ -27,7 +27,7 @@ const MOCK: Diagnosis = {
   confidence: 0.94,
   severity: 'medium',
   summary:
-    'FLORE AI detected early blight common in warm, humid Indian climates. It affects lower leaves first and spreads quickly during monsoon conditions.',
+    'FLORA AI detected early blight common in warm, humid Indian climates. It affects lower leaves first and spreads quickly during monsoon conditions.',
   steps: [
     'Isolate this plant from nearby tomatoes and potatoes to prevent spread.',
     'Prune the most affected lower leaves — disinfect tools with 70% alcohol between cuts.',
