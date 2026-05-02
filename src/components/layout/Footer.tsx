@@ -105,7 +105,7 @@ export function Footer() {
               <div className="flex gap-2">
                 <input
                   type="email"
-                  placeholder="your@email.com"
+                  placeholder="flora@email.com"
                   className="flex-1 rounded-full border border-white/10 bg-white/5 px-4 py-2.5 text-sm text-white placeholder:text-slate-600 outline-none focus:border-emerald-400/40 focus:bg-white/8 transition"
                 />
                 <button
@@ -142,7 +142,7 @@ export function Footer() {
 
         {/* ── Bottom bar ── */}
         <div className="footer-col flex flex-col items-center justify-between gap-4 border-t border-white/8 py-6 text-xs text-slate-500 md:flex-row">
-          <p>© {new Date().getFullYear()} FLORE AI. Built with care for Indian plant lovers.</p>
+          <p>© {new Date().getFullYear()} FLORA AI. Built with care for Indian plant lovers.</p>
           <div className="flex items-center gap-6">
             <span className="inline-flex items-center gap-2">
               <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-400" />
